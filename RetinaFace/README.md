@@ -1,4 +1,4 @@
-# RetinaFace Face Detector and Mask detection
+# Face Detector and Mask detection
 
 ## Install
 1. Install MXNet with GPU support.  
