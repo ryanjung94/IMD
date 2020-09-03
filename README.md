@@ -21,7 +21,7 @@ So, we would like to propose an efficient mask detection system that can also be
 
 ## Demonstration
 * ![ezgif-6-0228ddc6511a](https://user-images.githubusercontent.com/28856527/92118446-727fae80-ee31-11ea-9ecb-c8f2b5abc045.gif)
-* ![Watch on Youtube (640x480)](http://img.youtube.com/vi/TxW3jxQz3zI/0.jpg)
+* [Watch on Youtube (640x480)](http://img.youtube.com/vi/TxW3jxQz3zI/0.jpg)
 
 ## To-Do
 - [x] Face detection algorithm
