@@ -1,9 +1,5 @@
 import cv2
-import sys
 import numpy as np
-import datetime
-import os
-import glob
 from RetinaFace.retinaface import RetinaFace
 
 gpuid = 0
