@@ -4,7 +4,7 @@ Intelligent Mask Detection via Deep Learning Algorithms
 ## System Architecture
 <div align="center">
 
-![architecture1](https://github.com/94JuHo/IMD/tree/master/asset/img/system_architecture.jpg)  
+![architecture1](./asset/img/system_architecture.jpg)  
 
 </div>
   
@@ -23,10 +23,10 @@ Libary : Opencv, numpy, Mxnet etc..
 [![Video Label](http://img.youtube.com/vi/TxW3jxQz3zI/0.jpg)](https://youtu.be/TxW3jxQz3zI)
 
 ### To-Do
-- [ x ] Face detection algorithm
-- [ x ] Mask detection is performed via face detection algorithm
-- [  ] Mask detection via Lightweight ReXNet algorithm
-- [  ] Fusing face detection and mask detection
+- [x] Face detection algorithm
+- [x] Mask detection is performed via face detection algorithm
+- [ ] Mask detection via Lightweight ReXNet algorithm
+- [ ] Fusing face detection and mask detection
 
 #### Reference
 - https://github.com/deepinsight/insightface/tree/master/RetinaFace
