@@ -4,7 +4,7 @@ Intelligent Mask Detection via Deep Learning Algorithms
 ## System Architecture
 <div align="center">
 
-![architecture1](https://github.com/94JuHo/IMD/asset/img/system_architecture.jpg)  
+![architecture1](https://github.com/94JuHo/IMD/tree/master/asset/img/system_architecture.jpg)  
 
 </div>
   
